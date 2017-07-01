@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					0E52F6891F073B81007CDCBD = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 2Z9YS2U8E6;
+						DevelopmentTeam = H9U6SCL863;
 						ProvisioningStyle = Automatic;
 					};
 					0E52F69D1F073B81007CDCBD = {
@@ -417,7 +417,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 2Z9YS2U8E6;
+				DEVELOPMENT_TEAM = H9U6SCL863;
 				INFOPLIST_FILE = SaveTheWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.stephenrhunter.SaveTheWorld;
@@ -430,7 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 2Z9YS2U8E6;
+				DEVELOPMENT_TEAM = H9U6SCL863;
 				INFOPLIST_FILE = SaveTheWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.stephenrhunter.SaveTheWorld;
